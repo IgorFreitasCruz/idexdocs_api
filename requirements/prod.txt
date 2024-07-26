@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+gunicorn
+sqlmodel
+pydantic
+pydantic-settings
+alembic
+pyodbc
+azure-storage-blob
+azure-identity
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+pytz
+sentry-sdk
